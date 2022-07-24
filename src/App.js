@@ -4,12 +4,12 @@ import Ahorcado from './componentes/Ahorcado';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header" >
+    // <div className="App">
+    //   <header className="App-header" >
         <Ahorcado />
         
-      </header>
-    </div>
+    //   </header>
+    // </div>
   );
 }
 

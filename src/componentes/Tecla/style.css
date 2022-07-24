@@ -1,0 +1,17 @@
+.tecla{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(92, 57, 57);
+    color: white;
+    border: 1px solid rgb(61, 38, 38);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.usada{
+    background-color: grey;
+    color: lightgrey;
+}

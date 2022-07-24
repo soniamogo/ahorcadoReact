@@ -1,11 +1,9 @@
 import React from 'react'
 import './style.css'
 
-const Palabra = () => {
+const Palabra = ({palabra}) => {
   return (
-    <div id="palabra">Palabra
-    
-    </div>
+    <div id="palabra">{palabra}</div>
   )
 }
 
